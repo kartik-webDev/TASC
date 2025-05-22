@@ -20,9 +20,9 @@
  
 TASC (Thoda Aaram Se Chalaiye) is a web application dedicated to prioritizing passenger safety, comfort, and choice in ride services. The application empowers passengers to provide comprehensive feedback on their ride experiences, which directly impacts driver ratings. This passenger-centric approach aims to improve overall ride quality and safety standards across the transportation ecosystem.
 
-## 5. The Ws(and How)
+## 4. The Ws(and How)
 
-## 5.1 What is the Project?
+### 4.1 What is the Project?
 - A web application that allows passengers to submit detailed feedback on their rides. This feedback affects driver ratings, with the goal of raising comfort, safety, and quality standards in transport.
 - The Main features of the TASC Project is user can also give "Anonymous" feedback after verify the ride Details.
 
@@ -42,7 +42,7 @@ TASC (Thoda Aaram Se Chalaiye) is a web application dedicated to prioritizing pa
 ### DevOps 
 - GitHub for version control and collaboration
 
-## 5.2 Why is the Project Important?
+## 4.2 Why is the Project Important?
 
 ### 🚨Problem Statement
 
@@ -100,23 +100,13 @@ TASC (Thoda Aaram Se Chalaiye) is a web application dedicated to prioritizing pa
 ### 📊 3. Data-Driven Safety Standards
 Rich passenger feedback can power AI-based safety reports, driver behavior analytics, and policy recommendations — making it valuable to transport authorities, platforms, and insurers.
 
-🤝 4. Partnership & Licensing
-Opportunity to license feedback systems to ride-hailing startups, fleet operators, or local governments.
+### 🤝 4. Data-Driven Insights for Stakeholders
 
-Scope to monetize via subscription models, premium driver profiles, or safety certifications.
+- Aggregated feedback data can provide valuable insights for transportation authorities and service providers to implement targeted improvements and policies.
 
-🚀 Summary
-As transportation evolves, passenger voice must evolve too.
-TASC addresses a growing gap with timely innovation, social value, and commercial potential in both urban mobility and transport regulation.
+- Scope to monetize via subscription models, premium driver profiles, or safety certifications.
 
-
-
-
-
-
-### DevOps 
-- GitHub for version control and collaboration
-
+## 4.3 Who is it For?
 
 
 
