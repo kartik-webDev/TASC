@@ -106,7 +106,84 @@ Rich passenger feedback can power AI-based safety reports, driver behavior analy
 
 - Scope to monetize via subscription models, premium driver profiles, or safety certifications.
 
-## 4.3 Who is it For?
+# 4.3 Who is it For?
+
+## 🎯 Primary Target Audience
+
+### Daily Commuters & Urban Riders
+
+- People who frequently use ride-hailing Services.
+
+- Office-goers, students, and city travelers who value safety and comfort.
+
+### Concerned Passengers
+
+- Individuals who prioritize safety, especially women, elderly passengers, and parents arranging rides for children.
+
+- People who've had negative experiences with drivers and want their feedback to matter.
+
+### Quality-Conscious Users
+
+- Passengers who care about service quality and want to reward or flag specific behaviors (e.g., rash driving, cleanliness, politeness).
+
+## User Persona 
+
+## 👨‍🎓 Persona 1: "Daily Budget Rider"
+
+#### Age: 21-24
+
+#### Profession: College Student
+
+#### Location: Delhi NCR
+
+#### Tech Comfort: Moderate to High
+
+### Goals:
+
+- Find budget-friendly rides to commute between college and part-time job.
+
+- Report unclean vehicles or uncomfortable rides.
+
+- Compare drivers based on service quality.
+
+### Pain Points:
+
+- Often ends up in poorly maintained vehicles.
+
+- Can’t give specific feedback on comfort or vehicle condition.
+
+- Frustrated when the same issues happen repeatedly.
+
+
+## 👩‍👧 Persona 2: "Protective Parent" 
+
+
+#### Parent
+
+#### Location: Bengaluru
+
+#### Tech Comfort: Moderate
+
+### Goals:
+
+- Ensure daughter’s safety during solo cab rides.
+
+- Track ride quality reports in the area.
+
+- Trust that complaints lead to real change.
+
+### Pain Points:
+
+- Worries about late-night rides or unfamiliar drivers.
+
+- Doesn’t understand how ride platforms act on complaints.
+
+- Finds current feedback options too limited.
+
+
+
+
+
 
 
 
