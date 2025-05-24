@@ -174,6 +174,72 @@ TASC (Thoda Aaram Se Chalaiye) is a web application dedicated to prioritizing pa
 
             - Finds current feedback options too limited.
 
+- ## 4.4  When Will it Be Available?
+
+    - Beta Release: May 2025
+    - Full Release: Oct 2025
+
+- ## 5.5 Where Will it Be Used?
+    - ### Deployment environments
+        - Web Browsers And PWA
+    - ### Distribution channels
+        - GitHub & Vercel 
+    - ### Accessibility considerations
+        - Every browser support
+
+- ##  How Does it Work?
+    - Login to the application
+    - Afetr that "User Rating" nav will apear
+    - User can give positive or negative rating according to his/her personal experience.
+
+# 5. Project Vision and Goals
+- Giving user power so that he/her wont suffer in the next ride and the riding condition will be better.
+
+- ### Long-term vision
+    - Colloborate with ride hailing companies for better market growth.
+    - Provide better user experience.
+- ### Short-term objectives
+    - To focus on building the core functionality, ensuring usability, and gathering initial user feedback.
+- ### Success metrics
+    - Total Registered Users – Tracks overall platform growth.
+    - How frequently passengers provide feedback.
+    -  Tracks how quickly passenger concerns are addressed.
+# 6. Market Analysis
+- ### Market trends and opportunities
+    - **Electric Vehicle Adoption** – Companies like BluSmart are integrating EV fleets to reduce emissions.
+    - AI & Data Analytics – Platforms are leveraging AI-driven safety reports and driver behavior analytics.
+    - **Regulatory Challenges** – Stricter compliance and safety regulations are shaping the industry.
+    - New Entrants & Innovations – Companies like Rapido are disrupting the market with bike taxis.
+    ### Expansion into Niche Segments 🔍
+    - Women, elderly passengers, and corporate travelers prioritize safety & service quality—**TASC** offers them a structured feedback mechanism.
+    - Specialized offerings like premium driver ratings or verified safety badges can attract high-value users.
+
+    ### Government & Corporate Collaborations 🔗
+    - Transport authorities can use **data-driven insights** to set new **safety standards** for ride services.
+    - Insurance companies could integrate ***driver behavior analytics** into **policy pricing and risk assessment**.
+
+    ### Targeting Unaddressed Passenger Needs 🏆
+    - Existing ride-hailing services focus primarily on driver efficiency, not passenger experience.
+    - TASC creates a passenger-first system where feedback directly impacts driver ratings, building trust and accountability.
+
+
+- ### SWOT Analysis 🔍
+    - ### Strengths:
+        - ✅ Large and growing user base
+        - ✅ Convenience and ease of use
+        - ✅ Flexible work opportunities for drivers
+    - ### Weaknesses:
+        - ⚠️ Dependence on smartphone apps
+        - ⚠️ High driver turnover rates
+    - ### Opportunities:
+        - 🚀 Expansion into underserved areas
+        - 🚀 AI-driven safety and feedback systems
+        - 🚀 Integration with ride-hailing platforms
+    - ### Threats:
+        - ⚠️ Competition from other ride-hailing services
+        - ⚠️ Regulatory changes and compliance issue
+
+
 
 
 
