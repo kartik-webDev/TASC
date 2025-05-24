@@ -1,8 +1,38 @@
 
-# TASC: Thoda Aaram Se Chalaiye
-
-
 # Project Documentation
+
+# Table of Contents
+
+- [1. Project Details](#1-project-details)
+- [2. Team Members](#2-team-members)
+- [3. Summary](#3-summary)
+- [4. The Ws (and How)](#4-the-wsand-how)
+  - [4.1 What is the Project?](#41-what-is-the-project)
+  - [Technology Stack](#technology-stack)
+    - [Frontend](#frontend)
+    - [Backend](#backend)
+    - [DevOps](#devops)
+  - [4.2 Why is the Project Important?](#42-why-is-the-project-important)
+    - [🚨 Problem Statement](#🚨problem-statement)
+    - [✅ TASC Provides a Simple Solution](#✅-tasc-provide-a-simple-solution)
+- [Market Need and Opportunity](#market-need-and-opportunity)
+  - [📈 Market Need](#📈-market-need)
+    - [🚗 1. Growing Reliance on Ride Services](#🚗1-growing-reliance-on-ride-services)
+    - [💬 2. Feedback Systems Are Surface-Level](#💬-2-feedback-systems-are-surface-level)
+    - [⚠️ 3. Safety Incidents Are Underreported](#⚠️-3-safety-incidents-are-underreported)
+  - [🪟 Market Opportunity](#🪟-market-opportunity)
+    - [🎯 1. Passenger-Centric Differentiation](#🎯-1-passenger-centric-differentiation)
+    - [🌍 2. Integration with Existing Services](#🌍-2-integration-with-existing-services)
+    - [📊 3. Data-Driven Safety Standards](#📊-3-data-driven-safety-standards)
+    - [🤝 4. Data-Driven Insights for Stakeholders](#🤝-4-data-driven-insights-for-stakeholders)
+- [4.3 Who is it For?](#43-who-is-it-for)
+  - [🎯 Primary Target Audience](#🎯-primary-target-audience)
+    - [Daily Commuters & Urban Riders](#daily-commuters--urban-riders)
+    - [Concerned Passengers](#concerned-passengers)
+    - [Quality-Conscious Users](#quality-conscious-users)
+- [User Persona](#user-persona)
+  - [👨‍🎓 Persona 1: "Daily Budget Rider"](#👨‍🎓-persona-1-daily-budget-rider)
+  - [👩‍👧 Persona 2: "Protective Parent"](#👩‍👧-persona-2-protective-parent)
 
 ## 1. Project Details
 
@@ -17,6 +47,7 @@
     - Shivani: UI/UX, Layout
 
 ## 3. Summary 
+
  
 TASC (Thoda Aaram Se Chalaiye) is a web application dedicated to prioritizing passenger safety, comfort, and choice in ride services. The application empowers passengers to provide comprehensive feedback on their ride experiences, which directly impacts driver ratings. This passenger-centric approach aims to improve overall ride quality and safety standards across the transportation ecosystem.
 
@@ -179,11 +210,6 @@ Rich passenger feedback can power AI-based safety reports, driver behavior analy
 - Doesn’t understand how ride platforms act on complaints.
 
 - Finds current feedback options too limited.
-
-
-
-
-
 
 
 
