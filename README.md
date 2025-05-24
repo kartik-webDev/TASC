@@ -94,11 +94,11 @@ TASC (Thoda Aaram Se Chalaiye) is a web application dedicated to prioritizing pa
         - ### 📊 3. Data-Driven Safety Standards
             - Rich passenger feedback can power AI-based safety reports, driver behavior analytics, and policy recommendations — making it valuable to transport authorities, platforms, and insurers.
 
-    - ### 🤝 4. Data-Driven Insights for Stakeholders
+        - ### 🤝 4. Data-Driven Insights for Stakeholders
 
-        - Aggregated feedback data can provide valuable insights for transportation authorities and service providers to implement targeted improvements and policies.
+            - Aggregated feedback data can provide valuable insights for transportation authorities and service providers to implement targeted improvements and policies.
 
-        - Scope to monetize via subscription models, premium driver profiles, or safety certifications.
+            - Scope to monetize via subscription models, premium driver profiles, or safety certifications.
 
 - ## 4.3 Who is it For?
 
