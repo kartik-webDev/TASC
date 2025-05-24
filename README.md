@@ -10,26 +10,26 @@
   - [4.1 What is the Project?](#41-what-is-the-project)
   - [Technology Stack](#technology-stack)
   - [4.2 Why is the Project Important?](#42-why-is-the-project-important)
-    - [🚨 Problem Statement](#problem-statement)
-    - [✅ TASC Provides a Simple Solution](#tasc-provide-a-simple-solution)
+    - [🚨 Problem Statement](#🚨problem-statement)
+    - [✅ TASC Provides a Simple Solution](#✅-tasc-provide-a-simple-solution)
 - [Market Need and Opportunity](#market-need-and-opportunity)
-  - [📈 Market Need](#market-need)
-    - [🚗 1. Growing Reliance on Ride Services](#1-growing-reliance-on-ride-services)
-    - [💬 2. Feedback Systems Are Surface-Level](#2-feedback-systems-are-surface-level)
-    - [⚠️ 3. Safety Incidents Are Underreported](#3-safety-incidents-are-underreported)
-  - [🪟 Market Opportunity](#market-opportunity)
-    - [🎯 1. Passenger-Centric Differentiation](#1-passenger-centric-differentiation)
-    - [🌍 2. Integration with Existing Services](#2-integration-with-existing-services)
-    - [📊 3. Data-Driven Safety Standards](#3-data-driven-safety-standards)
-    - [🤝 4. Data-Driven Insights for Stakeholders](#4-data-driven-insights-for-stakeholders)
+  - [📈 Market Need](#📈-market-need)
+    - [🚗 1. Growing Reliance on Ride Services](#🚗1-growing-reliance-on-ride-services)
+    - [💬 2. Feedback Systems Are Surface-Level](#💬-2-feedback-systems-are-surface-level)
+    - [⚠️ 3. Safety Incidents Are Underreported](#⚠️-3-safety-incidents-are-underreported)
+  - [🪟 Market Opportunity](#🪟-market-opportunity)
+    - [🎯 1. Passenger-Centric Differentiation](#🎯-1-passenger-centric-differentiation)
+    - [🌍 2. Integration with Existing Services](#🌍-2-integration-with-existing-services)
+    - [📊 3. Data-Driven Safety Standards](#📊-3-data-driven-safety-standards)
+    - [🤝 4. Data-Driven Insights for Stakeholders](#🤝-4-data-driven-insights-for-stakeholders)
 - [4.3 Who is it For?](#43-who-is-it-for)
-  - [🎯 Primary Target Audience](#primary-target-audience)
+  - [🎯 Primary Target Audience](#🎯-primary-target-audience)
     - [Daily Commuters & Urban Riders](#daily-commuters--urban-riders)
     - [Concerned Passengers](#concerned-passengers)
     - [Quality-Conscious Users](#quality-conscious-users)
 - [User Persona](#user-persona)
-  - [👨‍🎓 Persona 1: "Daily Budget Rider"](#persona-1-daily-budget-rider)
-  - [👩‍👧 Persona 2: "Protective Parent"](#persona-2-protective-parent)
+  - [👨‍🎓 Persona 1: "Daily Budget Rider"](#👨‍🎓-persona-1-daily-budget-rider)
+  - [👩‍👧 Persona 2: "Protective Parent"](#👩‍👧-persona-2-protective-parent)
 
 ## 1. Project Details
 
@@ -53,6 +53,7 @@ TASC (Thoda Aaram Se Chalaiye) is a web application dedicated to prioritizing pa
 ### 4.1 What is the Project?
 - A web application that allows passengers to submit detailed feedback on their rides. This feedback affects driver ratings, with the goal of raising comfort, safety, and quality standards in transport.
 - The Main features of the TASC Project is user can also give "Anonymous" feedback after verify the ride Details.
+
 
 - ### Technology Stack
 
