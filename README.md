@@ -29,7 +29,7 @@
     - [Quality-Conscious Users](#quality-conscious-users)
 - [User Persona](#user-persona)
   - [👨‍🎓 Persona 1: "Daily Budget Rider"](#👨‍🎓-persona-1-daily-budget-rider)
-  - [👩‍👧 Persona 2: "Protective Parent"](#👩‍👧-persona-2-protective-parent)
+  - [👩‍👧 Persona 2: "Protective Parent"](#persona-2-protective-parent)
 
 ## 1. Project Details
 
