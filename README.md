@@ -29,7 +29,7 @@
     - [Quality-Conscious Users](#quality-conscious-users)
 - [User Persona](#user-persona)
   - [👨‍🎓 Persona 1: "Daily Budget Rider"](#👨‍🎓-persona-1-daily-budget-rider)
-  - [👩‍👧 Persona 2: "Protective Parent"](#persona-2-protective-parent)
+  - [👩‍👧 Persona 2: "Protective Parent"](#👩‍👧-persona-2-protective-parent)
 
 ## 1. Project Details
 
@@ -50,42 +50,41 @@ TASC (Thoda Aaram Se Chalaiye) is a web application dedicated to prioritizing pa
 
 ## 4. The Ws(and How)
 
-### 4.1 What is the Project?
-- A web application that allows passengers to submit detailed feedback on their rides. This feedback affects driver ratings, with the goal of raising comfort, safety, and quality standards in transport.
-- The Main features of the TASC Project is user can also give "Anonymous" feedback after verify the ride Details.
+- ### 4.1 What is the Project?
+    - A web application that allows passengers to submit detailed feedback on their rides. This feedback affects driver ratings, with the goal of raising comfort, safety, and quality standards in transport.
+    - The Main features of the TASC Project is user can also give "Anonymous" feedback after verify the ride Details.
 
 
 - ### Technology Stack
 
-### Frontend
+    ### Frontend
 
-- React.js for web interface
-- Tailwind for styling
-### Backend
+    - React.js for web interface
+    - Tailwind for styling
+    ### Backend
 
-- Node and Express for Routing
-- MongoDB for Database
-- Firebase for Authentication
+    - Node and Express for Routing
+    - MongoDB for Database
+    - Firebase for Authentication
 
-### DevOps 
-- GitHub for version control and collaboration
+    ### DevOps 
+    - GitHub for version control and collaboration
+- ### 4.2 Why is the Project Important?
 
-## 4.2 Why is the Project Important?
+    ### 🚨Problem Statement
 
-### 🚨Problem Statement
+        In today’s fast-paced ride service industry, passenger comfort and safety are often compromised in favor of speed and efficiency. Many platforms lack a structured, meaningful feedback system that captures the rider’s full experience beyond just star ratings. As a result:
 
-- In today’s fast-paced ride service industry, passenger comfort and safety are often compromised in favor of speed and efficiency. Many platforms lack a structured, meaningful feedback system that captures the rider’s full experience beyond just star ratings. As a result:
+        Passengers feel unheard or helpless in influencing driver behavior.
 
-    - Passengers feel unheard or helpless in influencing driver behavior.
+        Drivers receive inadequate or vague feedback, limiting their ability to improve.
 
-    - Drivers receive inadequate or vague feedback, limiting their ability to improve.
+        Platforms fail to identify and address patterns of poor service or risky behavior.
 
-    - Platforms fail to identify and address patterns of poor service or risky behavior.
-
-    - This gap results in declining trust, inconsistent ride quality, and unsafe travel experiences. 
+        This gap results in declining trust, inconsistent ride quality, and unsafe travel experiences. 
 
 
-### ✅ TASC provide a simple solution.
+    ### ✅ TASC provide a simple solution.
 - Providing a passenger-first platform where riders can:
 
     - Give structured feedback after each ride
