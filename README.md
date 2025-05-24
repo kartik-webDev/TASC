@@ -13,7 +13,7 @@
     - [Backend](#backend)
     - [DevOps](#devops)
   - [4.2 Why is the Project Important?](#42-why-is-the-project-important)
-    - [🚨 Problem Statement](#🚨problem-statement)
+    - [ Problem Statement](#problem-statement)
     - [✅ TASC Provides a Simple Solution](#✅-tasc-provide-a-simple-solution)
 - [Market Need and Opportunity](#market-need-and-opportunity)
   - [📈 Market Need](#📈-market-need)
